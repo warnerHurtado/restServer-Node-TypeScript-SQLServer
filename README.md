@@ -1,5 +1,5 @@
 # RestServer - Node - TypeScript - SSQL 
-Proyectos del curso - Node
+Node - Curse project
 Topics:
   - RestServer with TypeScript.
   - Configuration of Express with TypeScript.
